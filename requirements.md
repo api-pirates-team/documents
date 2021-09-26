@@ -70,9 +70,9 @@ Artmodal : contain the artist data ex: any data in the user feed page will be he
 
 ### Does a single item in your database “belong to” just one other item in your database?
  - We use a art model and its have the image of the art and the artist name and date
- - 
+ 
 ### Does a item in your database “belong to” multiple other items in your database?
  - we use a user model and its have user name and user email and liked item and the user can have multiple liked items
- - 
+ 
 ### Do many items in your database relate to many other items in your database? 
 - we have multiple museums and each musem have multiple items
